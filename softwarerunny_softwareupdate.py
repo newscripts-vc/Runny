@@ -299,7 +299,7 @@ COLORES = {
     "AZUL": (
         "#1e88e5",
         "Azul, azul, como el cielo y el mar, es un color hermoso que podemos mirar.",
-        "AZUL", "nubes.png"  
+        "AZUL", "mar.png"  
     ),
 
     "VERDE": (
@@ -327,7 +327,7 @@ COLORES = {
         "#000000",
         "Negro, negro, como la noche, cuando aparece se duerme el coche.",
         "NEGRO",
-        "noche.png"
+        "noche.jpg"
     ),
 
     "NARANJA": (
@@ -348,7 +348,7 @@ COLORES = {
         "#ec407a",
         "Rosado, rosado, suave y bonito, parece el color de un dulce pastelito.",
         "ROSADO",
-        "pastelito.png"
+        "pastel.png"
     ),
 
     "CAFÉ": (
@@ -362,14 +362,14 @@ COLORES = {
         "#757575",
         "Gris, gris, como una nube, cuando aparece lentamente sube.",
         "GRIS",
-        "nube_gris.png"
+        "nubegris.png"
     ),
 
     "CELESTE": (
         "#29b6f6",
         "Celeste, celeste, como el cielo, es un color que parece un sueño.",
         "CELESTE",
-        "cielo.png"
+        "cielo.jpg"
     )
 }
 
@@ -394,175 +394,175 @@ LETRAS = {
         "casa",
         "C, C, vamos a aprender, C de casa, qué bonito es leer.",
         "C",
-        "casa.png"
+        "C.png"
     ),
 
     "D": (
         "dado",
         "D, D, qué emoción, D de dado y de diversión.",
         "D",
-        "dado.png"
+        "D.png"
     ),
 
     "E": (
         "estrella",
         "E, E, vamos a cantar, E de estrella que podemos mirar.",
         "E",
-        "estrella.png"
+        "E.png"
     ),
 
     "F": (
         "flor",
         "F, F, qué emoción, F de flor y de diversión.",
         "F",
-        "flor.png"
+        "F.png"
     ),
 
     "G": (
         "gato",
         "G, G, suena genial, G de gato, animal especial.",
         "G",
-        "gato.png"
+        "G.png"
     ),
 
     "H": (
         "helado",
         "H, H, aunque no suena, H de helado que vale la pena.",
         "H",
-        "helado.png"
+        "H.png"
     ),
 
     "I": (
         "iguana",
         "I, I, vamos a aprender, I de iguana, la puedes conocer.",
         "I",
-        "iguana.png"
+        "I.png"
     ),
 
     "J": (
         "jirafa",
         "J, J, qué diversión, J de jirafa de gran tamaño.",
         "J",
-        "jirafa.png"
+        "J.png"
     ),
 
     "K": (
         "kilo",
         "K, K, vamos a cantar, K de kilo, fácil de recordar.",
         "K",
-        "kilo.png"
+        "K.png"
     ),
 
     "L": (
         "luna",
         "L, L, qué bonito es, L de luna que aparece después.",
         "L",
-        "luna.png"
+        "L.png"
     ),
 
     "M": (
         "mamá",
         "M, M, vamos a aprender, M de mamá, qué bonito es querer.",
         "M",
-        "mama.png"
+        "M.png"
     ),
 
     "N": (
         "nube",
         "N, N, suena muy bien, N de nube que vemos también.",
         "N",
-        "nube.png"
+        "N.png"
     ),
 
     "Ñ": (
         "niño",
         "Ñ, Ñ, letra especial, Ñ de niño, ¡qué genial!",
         "Ñ",
-        "nino.png"
+        "Ñ.png"
     ),
 
     "O": (
         "oso",
         "O, O, redonda como el sol, O de oso, qué lindo animal.",
         "O",
-        "oso.png"
+        "O.png"
     ),
 
     "P": (
         "perro",
         "P, P, vamos a cantar, P de perro que nos puede acompañar.",
         "P",
-        "perro.png"
+        "P.png"
     ),
 
     "Q": (
         "queso",
         "Q, Q, qué emoción, Q de queso, qué rico sabor.",
         "Q",
-        "queso.png"
+        "Q.png"
     ),
 
     "R": (
         "robot",
         "R, R, vamos a aprender, R de robot, ¡como Runny también!",
         "R",
-        "robot.png"
+        "R.png"
     ),
 
     "S": (
         "sapo",
         "S, S, suena genial, S de sapo, animal especial.",
         "S",
-        "sapo.png"
+        "S.png"
     ),
 
     "T": (
         "tren",
         "T, T, vamos a cantar, T de tren que comienza a andar.",
         "T",
-        "tren.png"
+        "T.png"
     ),
 
     "U": (
         "uva",
         "U, U, qué divertido, U de uva, un fruto delicioso.",
         "U",
-        "uva.png"
+        "U.png"
     ),
 
     "V": (
         "vaca",
         "V, V, vamos a aprender, V de vaca que podemos conocer.",
         "V",
-        "vaca.png"
+        "V.png"
     ),
 
     "W": (
         "uve doble",
         "W, W, uve doble se llama, aprendemos juntos con mucha calma.",
         "W",
-        "uve_doble.png"
+        "W.png"
     ),
 
     "X": (
         "xilófono",
         "X, X, vamos a aprender, X de xilófono que podemos tocar.",
         "X",
-        "xilofono.png"
+        "X.png"
     ),
 
     "Y": (
         "yoyo",
         "Y, Y, qué emoción, Y de yoyo que sube y baja un montón.",
         "Y",
-        "yoyo.png"
+        "Y.png"
     ),
 
     "Z": (
         "zapato",
         "Z, Z, vamos a terminar, Z de zapato para caminar.",
         "Z",
-        "zapato.png"
+        "Z.png"
     )
 }
 
